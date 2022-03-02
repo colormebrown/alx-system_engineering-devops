@@ -1,1 +1,1 @@
-this script lists the contents of the current dir
+this script changes current working dir to users dir
