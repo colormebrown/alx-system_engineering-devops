@@ -1,1 +1,1 @@
-script that prints file type
+script that creates a symbolic link to /bin/ls called _ls_
