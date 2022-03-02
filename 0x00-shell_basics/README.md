@@ -1,1 +1,1 @@
-this script displays current dir including hidden . files
+this script displays current dir contents
