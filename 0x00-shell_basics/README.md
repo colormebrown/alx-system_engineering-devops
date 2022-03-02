@@ -1,1 +1,1 @@
-delete first dir
+script that changes fir to previous one
