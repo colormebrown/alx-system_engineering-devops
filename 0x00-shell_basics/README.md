@@ -1,1 +1,1 @@
-this script displays current dir contents
+this script makes a file in a directory
