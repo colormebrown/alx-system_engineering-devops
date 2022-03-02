@@ -1,1 +1,1 @@
-this script changes current working dir to users dir
+this script displays current dir in long format
