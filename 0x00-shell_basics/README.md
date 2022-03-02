@@ -1,1 +1,1 @@
-script that changes fir to previous one
+script that lists all files 
