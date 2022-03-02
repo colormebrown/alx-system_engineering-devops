@@ -1,2 +1,2 @@
 #!/bin/bash
-BASEDIR = $(dirname $(realpath "$0"))
+echo "$PWD"
