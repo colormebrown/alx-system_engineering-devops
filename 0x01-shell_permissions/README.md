@@ -1,1 +1,1 @@
-script that sets the MODE OF THE HELLO FILE to 753
+script that mirrors olleh
