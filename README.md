@@ -1,1 +1,1 @@
-repository for the shell task 0
+script that switches the current user to user betty
