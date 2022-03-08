@@ -1,1 +1,1 @@
-a script that prints a number with two decimal places, followed by a new line.
+a script that encodes and decodes text using the rot13 encryption. Assume ASCII.
